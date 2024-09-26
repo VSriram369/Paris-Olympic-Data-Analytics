@@ -1,0 +1,9 @@
+{
+	"name": "paris-olympic-adf24",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98573025-be5d-46b6-ba02-80105edfefe5",
+		"tenantId": "28b966a6-604f-47b9-894a-e27d486378c6"
+	}
+}
